@@ -17,6 +17,9 @@
 ## Flagged fraud percent
 <img src = "Flagged fraud percent.png">
 
+## Fraud Types [Money Transaction]
+<img src = "Fraud Types [Money Transaction].png">
+
 ## Distribution Plot
 <img src = "Distribution_Plot.png">
 
